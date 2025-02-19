@@ -1,0 +1,2 @@
+# Python_ML_LogisticRegression_1_Titanic
+LogisticRegression on Titanic Survival
